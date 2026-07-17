@@ -1,0 +1,3 @@
+Forma concreta de implementar una [[API Basada en Eventos]], también conocida como **"reverse API"**.
+
+En lugar de que el cliente consulte periódicamente al servidor (como en [[Client-Side Polling]]) o mantenga una conexión abierta esperando datos (como en [[Server-Sent Events (SSE)]]), en un esquema de webhook el cliente registra previamente una URL propia (endpoint) ante el servidor. Cuando ocurre el evento de interés, es el **servidor** quien realiza una petición HTTP hacia esa URL para notificar al cliente, invirtiendo la dirección habitual de la comunicación (de ahí el nombre "reverse API").

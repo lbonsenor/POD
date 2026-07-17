@@ -4,6 +4,7 @@ Sistema compuesto por múltiples nodos (procesos/máquinas) que se comunican ent
 
 - **[[Split Brain]]**: problema que surge cuando, por una falla de comunicación, el sistema queda dividido en particiones autónomas que operan de forma independiente.
 - **[[Consistencia Eventual]]**: modelo de consistencia habitual en sistemas distribuidos de almacenamiento, donde las lecturas convergen al último valor escrito pasado un tiempo, en lugar de reflejarlo de forma inmediata.
+- **[[CAP Theorem]]**: establece que un sistema distribuido no puede garantizar simultáneamente Consistencia, Disponibilidad y Tolerancia a particiones; hay que elegir 2 de las 3.
 - **[[Elasticidad]]**: capacidad de un sistema distribuido de modificar su cantidad de nodos sin necesidad de detener el servicio.
 - **[[Particionado]]** y **[[Replicación]]**: técnicas utilizadas para distribuir y duplicar la información entre los distintos nodos, buscando eficiencia y tolerancia a fallos respectivamente.
 

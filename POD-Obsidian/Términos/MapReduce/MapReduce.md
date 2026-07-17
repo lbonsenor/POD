@@ -10,3 +10,7 @@ Paradigma de programación distribuida utilizado para procesar grandes volúmene
 ## Encadenamiento de jobs
 
 Un proceso de MapReduce puede estar compuesto por una **cadena de varios jobs**, donde la salida de un job (Mapper + Reducer) es la entrada del siguiente. Esto permite resolver consultas que requieren más de una etapa de agregación, como por ejemplo obtener un top-N por categoría, donde primero se calcula un valor agregado por grupo, y luego se requiere un procesamiento posterior (postproceso, usualmente vía [[Collator]]) para ordenar y filtrar los resultados finales.
+
+## Cómo resolver ejercicios de este tipo
+
+Para encarar un ejercicio que pide describir el comportamiento del Mapper y Reducer para resolver una consulta puntual, ver la guía paso a paso en [[Metodología de Resolución MapReduce]].
