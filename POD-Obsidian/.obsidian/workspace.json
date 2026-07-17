@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "e5c38833c67d3461",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cc4299afc9f2298",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c52b68b97b96940",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Clases/Cliente - Servidor/Introducción a gRPC.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Introducción a gRPC"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18cda33bb20e3666",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a9d1e8c90c6ebbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a70f67d578b9195",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "53512ca21339c920",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fb122c85903d3d0a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8893cd81fb619ce3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4c7b785dc0600fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3856d27fb67399f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clases/Programación Concurrente - Threads.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Programación Concurrente - Threads"
+            }
+          },
+          {
+            "id": "43966655a3b5b0ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Clases/Programación Concurrente - Threads.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Programación Concurrente - Threads"
+            }
+          },
+          {
+            "id": "78b7790c122f13e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f822777f0b432b81",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3006f7ccbb08c2e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clases/Programación Concurrente - Threads.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Programación Concurrente - Threads"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0c52b68b97b96940",
+  "lastOpenFiles": [
+    "Clases/1. Threads.pdf",
+    "Clases/2. Thread Safety.pdf",
+    "Trabajos Prácticos/TP- Programacion Concurrente - Thread Safety.pdf",
+    "Trabajos Prácticos",
+    "Welcome.md",
+    "Clases"
+  ]
+}
