@@ -1,0 +1,1 @@
+Framework de comunicación entre cliente y servidor basado en RPC (Remote Procedure Call), que utiliza un [[Stub]] en el cliente para hacer que las llamadas remotas sean lo más "transparentes" posibles.
